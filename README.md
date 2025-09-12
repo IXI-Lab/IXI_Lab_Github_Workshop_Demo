@@ -36,21 +36,6 @@ Our work always happens on the `develop` branch. Let's switch to it now.
   * In the bottom-left corner of VS Code, click on the branch name (it should say `main`).
   * From the menu that appears at the top, select **`origin/develop`**. Your status bar will now show `develop`.
 
-**Step 3: Edit a File on the `develop` Branch**
-To practice, let's make a small change directly on the `develop` branch.
-
-1.  In the VS Code file explorer, open the file named `Say_Hi_Here.md`.
-2.  Add your name on a new line.
-3.  **Save the file** (`Ctrl+S` or `Cmd+S`).
-
-**Step 4: Commit Your Change to `develop`**
-Now, let's save this change and share it.
-
-1.  Go to the **Source Control** panel (the icon with three dots).
-2.  Stage your change by clicking the **`+` icon** next to `Say_Hi_Here.md`.
-3.  In the message box, type: `docs: Add [Your Name] to sign-in sheet`
-4.  Click the **checkmark icon** to commit.
-5.  Click the **"Sync Changes"** button in the status bar to push your commit to GitHub.
 
 -----
 
